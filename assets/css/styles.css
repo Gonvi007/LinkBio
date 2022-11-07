@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+main{
+    width: 100%;
+    min-height: 90%;
+  }
+.container__centrado {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.container__headerTitulo {
+    margin: 10px 0 20px 0;
+}
+li {
+    
+}
+/* Footer*/
+footer{
+    width: 100%;
+    text-align: center;
+    padding: 15px 0;
+    font-size: 14px;
+}
+.container__footerIcon {
+    display: flex;
+
+    justify-content: space-around;
+}
